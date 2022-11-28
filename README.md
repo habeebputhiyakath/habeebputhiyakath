@@ -9,7 +9,7 @@ Flutter Developer
 *   🌍  I'm based in Calicut
 *   ✉  You can contact me at [irfanputhiyakath@gmail.com](mailto:irfanputhiyakath@gmail.com)
 *   🧠  I'm learning  flutter
-*   🤝  I'm open to collaborating on flutter project### Skills<p align="left">
+*   🤝  I'm open to collaborating on flutter project Skills<p align="left">
 
 ### Socials
 
