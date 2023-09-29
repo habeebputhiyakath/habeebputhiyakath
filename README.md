@@ -6,7 +6,6 @@ Flutter  Developer
 
 *   🌍  I'm based in Calicut
 *   ✉  You can contact me  at [irfanputhiyakath@gmail.com](mailto:irfanputhiyakath@gmail.com)
-*   🧠  I'm learning  flutter
 *   🤝  I'm open to collaborating on flutter project Skills<p align=" left">
  
 <h2 align="left">Connect with me:</h2>
@@ -25,8 +24,13 @@ Flutter  Developer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habeebputhiyakath&show_icons=true&locale=en" alt="habeebputhiyakath" /></p>
 
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habeebputhiyakath&" alt="" /></p>
 
+<strong>🏆 github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/habeebputhiyakath"><img src="https://stats.hyochan.dev/api/github-stats?login=habeebputhiyakath" width="600" /></a>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
