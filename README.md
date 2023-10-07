@@ -22,7 +22,7 @@ Flutter  Developer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habeebputhiyakath&show_icons=true&locale=en" alt="habeebputhiyakath" /></p>
 
-[![An image of @irfanhabeeb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irfanhabeeb)](https://holopin.io/@irfanhabeeb)
+
 
 
 
