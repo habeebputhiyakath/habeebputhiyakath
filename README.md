@@ -27,11 +27,12 @@ Flutter  Developer
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habeebputhiyakath&" alt="" /></p>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-<strong>🏆 github stats</strong>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="130">
 
-<a href="https://stats.hyochan.dev/en/stats/habeebputhiyakath"><img src="https://stats.hyochan.dev/api/github-stats?login=habeebputhiyakath" width="600" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
