@@ -25,7 +25,7 @@ Flutter  Developer
 [![An image of @irfanhabeeb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irfanhabeeb)](https://holopin.io/@irfanhabeeb)
 
 
-![snake gif](https://github.com/habeebputhiyakath/habeebputhiyakath/blob/output/github-contribution-grid-snake-dark.svg)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habeebputhiyakath&" alt="" /></p>
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 <strong>🏆 github stats</strong>
