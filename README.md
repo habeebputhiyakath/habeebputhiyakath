@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -------------
 
 *   🌍  I'm based in Calicut
-*   ✉  You can contact me  at [irfanputhiyakath@gmail.com](mailto:irfanputhiyakath@gmail.com)
+
 *   🤝  I'm open to collaborating on flutter project Skills<p align=" left">
  
 <h2 align="left">Connect with me:</h2>
