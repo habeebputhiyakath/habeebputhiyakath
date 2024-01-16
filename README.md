@@ -3,8 +3,6 @@
 
 
 
--------------
-
 *   🌍  I'm based in Calicut
 
 *   🤝  I'm open to collaborating on flutter project Skills<p align=" left">
