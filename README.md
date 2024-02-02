@@ -24,7 +24,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habeebputhiyakath&" alt="" /></p>
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="130">
 
 ### ✍️ Random Dev Quote
