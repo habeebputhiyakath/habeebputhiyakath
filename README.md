@@ -24,7 +24,7 @@
 [![An image of @irfanhabeeb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irfanhabeeb)](https://holopin.io/@irfanhabeeb)
 
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=habeebputhiyakath&theme=juicyfresh&no-bg=true" />
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="130">
 
 ### ✍️ Random Dev Quote
